@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/429767883569743729/4bd7baae628749f7bbddff046f041496/artifacts
+end_time: 1780569191031
+entry_point_name: ''
+experiment_id: '429767883569743729'
+lifecycle_stage: active
+run_id: 4bd7baae628749f7bbddff046f041496
+run_name: respected-lynx-672
+run_uuid: 4bd7baae628749f7bbddff046f041496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780569175940
+status: 3
+tags: []
+user_id: sahid
