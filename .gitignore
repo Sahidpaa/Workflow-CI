@@ -2,3 +2,7 @@ MLProject/mlruns/
 MLProject/mlartifacts/
 MLProject/__pycache__/
 *.pyc
+Membangun_model/
+heart_disease_raw/
+preprocessing/
+Workflow-CI/
